@@ -1,6 +1,6 @@
 - 👋 Howdy, I’m @ilhan
 - ⛅️ I’m fascinated by cloud security & blockchain tech
-- 🌱 I’m currently learning everything Web 3.0
+- 🌱 I’m currently learning & unlearning everything Web 3.0
 - 🏆 I’m looking to collaborate on open source projects & solving smart contract vulnerabilities
 
 <!---
